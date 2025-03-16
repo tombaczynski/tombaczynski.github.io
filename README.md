@@ -1,4 +1,4 @@
 # tombaczynski.github.io
 
 Hey
-[jpg](giraffe_jakcal.jpg)
+[jpg](/giraffe_jakcal.jpg)
