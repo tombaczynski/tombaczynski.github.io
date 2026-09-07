@@ -1,0 +1,3 @@
+# Blog
+
+[Kolej](./kolej/)
