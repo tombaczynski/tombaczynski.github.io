@@ -1,3 +1,3 @@
 # Blog
 
-[Kolej](./kolej/)
+[Kolej](./kolej1/)
