@@ -1,3 +1,3 @@
-[↑ W górę](./index.md)
+[↑ W górę](../index.md)
 
 # Kolej
